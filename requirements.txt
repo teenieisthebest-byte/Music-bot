@@ -1,0 +1,8 @@
+# Discord voice now requires the DAVE encryption protocol:
+# needs discord.py 2.7+ and davey, or the bot can't join voice channels.
+discord.py[voice]>=2.7.1
+davey
+yt-dlp
+spotipy
+ytmusicapi
+librosa
